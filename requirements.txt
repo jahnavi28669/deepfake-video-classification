@@ -1,0 +1,6 @@
+dlib==19.22.99
+fastapi==0.103.2
+keras==2.10.0
+opencv-python==4.10.0.84
+tensorflow==2.10.0
+uvicorn==0.22.0
