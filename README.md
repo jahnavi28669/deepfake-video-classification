@@ -1,7 +1,3 @@
-Here's the updated `README.md` with the usage instructions for running the FastAPI server and interacting with the application:
-
----
-
 # Deep Fake Video Classification
 
 ## Overview
